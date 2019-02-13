@@ -7,6 +7,9 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
 PRODUCT_NAME := lineage_h932
+PRODUCT_BRAND := lge
+PRODUCT_MANUFACTURER := LGE
+PRODUCT_RELEASE_NAME := V30
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE="joan" \
