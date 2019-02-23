@@ -1,1 +1,1 @@
-add_lunch_combo bootleg_h932-userdebug
+add_lunch_combo dot_h932-userdebug

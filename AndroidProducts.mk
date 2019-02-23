@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/bootleg_h932.mk
+    $(LOCAL_DIR)/dot_h932.mk
